@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--     Default     -->
+<!--     <color name="colorPrimary">#6200EE</color>     -->
+<!--     <color name="colorPrimaryDark">#3700B3</color>     -->
+<!--     <color name="colorAccent">#03DAC5</color>     -->
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#292B3D</color>
+    <color name="graylight">#FAFAFA</color>
+    <color name="startblue">#09C6DF</color>
+    <color name="endblue">#0BCCE6</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="purple">#61608F</color>
+    <color name="grey">#DDDDDD</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="hijau">#45E472</color>
+    <color name="putih">#F3F8F5</color>
+    <color name="ada">#678C76</color>
+    <color name="merah">#EA0000</color>
+</resources>

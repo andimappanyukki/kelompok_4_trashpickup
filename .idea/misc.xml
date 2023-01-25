@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/PERCOBAAN/SampahAndro-master/app/src/main/res/drawable/btn.xml" value="0.3285" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/PERCOBAAN/SampahAndro-master/app/src/main/res/layout/acticity_info.xml" value="0.17" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/PERCOBAAN/SampahAndro-master/app/src/main/res/layout/activity_add_user.xml" value="0.3007246376811594" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/PERCOBAAN/SampahAndro-master/app/src/main/res/layout/activity_daftar.xml" value="0.38697916666666665" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/PERCOBAAN/SampahAndro-master/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/PERCOBAAN/SampahAndro-master/app/src/main/res/layout/activity_info.xml" value="0.38697916666666665" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/PERCOBAAN/SampahAndro-master/app/src/main/res/layout/activity_jadwal.xml" value="0.18819655521783182" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/PERCOBAAN/SampahAndro-master/app/src/main/res/layout/activity_jadwaljemput.xml" value="0.3729166666666667" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/PERCOBAAN/SampahAndro-master/app/src/main/res/layout/activity_limbahbuahsayur.xml" value="0.3007246376811594" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/PERCOBAAN/SampahAndro-master/app/src/main/res/layout/activity_limbahminyak.xml" value="0.2767210144927536" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/PERCOBAAN/SampahAndro-master/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/PERCOBAAN/SampahAndro-master/app/src/main/res/layout/activity_main.xml" value="0.38697916666666665" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/PERCOBAAN/SampahAndro-master/app/src/main/res/layout/activity_main2.xml" value="0.38697916666666665" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/PERCOBAAN/SampahAndro-master/app/src/main/res/layout/activity_penjemputan.xml" value="0.38697916666666665" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/PERCOBAAN/SampahAndro-master/app/src/main/res/layout/activity_profil.xml" value="0.33" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/PERCOBAAN/SampahAndro-master/app/src/main/res/layout/activity_riwayatjemput.xml" value="0.38697916666666665" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/PERCOBAAN/SampahAndro-master/app/src/main/res/layout/activity_splash_screen.xml" value="0.38697916666666665" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/PERCOBAAN/SampahAndro-master/app/src/main/res/layout/list_item_jadwal.xml" value="0.38697916666666665" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/PERCOBAAN/SampahAndro-master/app/src/main/res/layout/list_item_riwayat.xml" value="0.38697916666666665" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/SampahAndro-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2605" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/SampahAndro-master/app/src/main/res/drawable/background_form.xml" value="0.1" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/SampahAndro-master/app/src/main/res/drawable/border.xml" value="0.2605" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/SampahAndro-master/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2605" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/SampahAndro-master/app/src/main/res/drawable/ic_next.xml" value="0.2605" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/SampahAndro-master/app/src/main/res/drawable/ic_remove_red_eye_black_24dp.xml" value="0.1" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/SampahAndro-master/app/src/main/res/layout/activity_daftar.xml" value="0.33" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/SampahAndro-master/app/src/main/res/layout/activity_edit_mahasiswa.xml" value="0.2504528985507246" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/SampahAndro-master/app/src/main/res/layout/activity_edukasi.xml" value="0.2504528985507246" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/SampahAndro-master/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/SampahAndro-master/app/src/main/res/layout/activity_jadwal.xml" value="0.38697916666666665" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/SampahAndro-master/app/src/main/res/layout/activity_limbahbuahsayur.xml" value="0.38697916666666665" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/SampahAndro-master/app/src/main/res/layout/activity_login.xml" value="0.5" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/SampahAndro-master/app/src/main/res/layout/activity_main.xml" value="0.2504528985507246" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/SampahAndro-master/app/src/main/res/layout/activity_main2.xml" value="0.2504528985507246" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/SampahAndro-master/app/src/main/res/layout/activity_penjemputan.xml" value="0.33" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/SampahAndro-master/app/src/main/res/layout/activity_profil.xml" value="0.5" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/SampahAndro-master/app/src/main/res/layout/activity_riwayat.xml" value="0.38697916666666665" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/SampahAndro-master/app/src/main/res/layout/activity_splash_screen.xml" value="0.38697916666666665" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/SampahAndro-master/app/src/main/res/layout/page_ob.xml" value="0.2015625" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/SampahAndro-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.26" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/SampahAndro-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.26" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/SampahAndro-master/app/src/main/res/mipmap-mdpi/ic_launcher.xml" value="0.2605" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/TUGAS/SampahAndro-master/app/src/main/res/layout/activity_add_user.xml" value="0.10833333333333334" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/TUGAS/SampahAndro-master/app/src/main/res/layout/activity_login.xml" value="0.26358695652173914" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/TUGAS/SampahAndro-master/app/src/main/res/layout/activity_penjemputan.xml" value="0.38697916666666665" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/TUGAS/SampahAndro-master/app/src/main/res/layout/activity_profil.xml" value="0.3292572463768116" />
+        <entry key="..\:/KULIAH/SEMESTER 5/APLIKASI MOBILE/TUGAS/SampahAndro-master/app/src/main/res/menu/delete.xml" value="0.2324074074074074" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/drawable/background_form.xml" value="0.1165" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/drawable/btn.xml" value="0.1165" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/drawable/gradientbackground.xml" value="0.1165" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/drawable/ic_access_time_black_24dp.xml" value="0.1165" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/drawable/ic_akun_24dp.xml" value="0.1165" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/drawable/ic_arrow_back_black_24dp.xml" value="0.1165" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/drawable/ic_call_black_24dp.xml" value="0.1165" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/drawable/ic_directions_black_24dp.xml" value="0.1165" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/layout/activity_daftar.xml" value="0.1796875" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/layout/activity_edukasi.xml" value="0.1796875" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/layout/activity_home.xml" value="0.1796875" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/layout/activity_jadwal.xml" value="0.1796875" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/layout/activity_limbahbuahsayur.xml" value="0.1796875" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/layout/activity_limbahkain.xml" value="0.1796875" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/layout/activity_limbahkaleng.xml" value="0.1796875" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/layout/activity_limbahkardus.xml" value="0.1796875" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/layout/activity_limbahkertas.xml" value="0.1796875" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/layout/activity_limbahminyak.xml" value="0.1796875" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/layout/activity_limbahplastik.xml" value="0.1796875" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/layout/activity_login.xml" value="0.15806159420289856" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/layout/activity_penjemputan.xml" value="0.1796875" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/layout/activity_poin.xml" value="0.1796875" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/layout/activity_profil.xml" value="0.1796875" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/layout/activity_riwayat.xml" value="0.1796875" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/layout/activity_sampahanorganik.xml" value="0.1796875" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/layout/activity_sampahorganik.xml" value="0.1796875" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/layout/activity_tukarpoin.xml" value="0.1796875" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1165" />
+        <entry key="..\:/SampahAndro-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1165" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

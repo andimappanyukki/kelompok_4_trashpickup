@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:background="@drawable/mobile"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:padding="155dp">
+
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="224dp"
+        android:layout_height="311dp"
+        android:layout_gravity="center"
+        android:src="@drawable/trashpickup" />
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="126dp"
+        android:orientation="vertical"
+        android:paddingStart="30dp"
+        android:layout_marginTop="10dp"
+        android:paddingEnd="30dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="11dp">
+
+            <EditText
+                android:id="@+id/nama"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/background_form"
+                android:hint="Nama tlp, email atau nama pengguna"
+                android:inputType="text"
+                android:padding="10dp"
+                android:textColorHint="#969696"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="11dp">
+
+            <EditText
+                android:id="@+id/password"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/background_form"
+                android:drawableEnd="@drawable/ic_remove_red_eye_black_24dp"
+                android:drawableTint="#969696"
+                android:hint="Kata Sandi"
+                android:inputType="textPassword"
+                android:padding="10dp"
+                android:textColorHint="#969696"
+                android:textSize="14sp" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:paddingHorizontal="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/masuk"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/btn"
+            android:text="Masuk"
+            android:textAllCaps="false"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="80dp"
+        android:paddingHorizontal="30dp"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:textSize="15sp"
+            android:textColor="#000000"
+            android:text="Belum punya Akun?"
+            android:textAlignment="center"/>
+
+        <Button
+            android:id="@+id/buat"
+            android:layout_width="match_parent"
+            android:layout_height="24dp"
+            android:background="@color/putih"
+            android:text="Buat Akun"
+            android:textAlignment="center"
+            android:textColor="@color/endblue"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+</LinearLayout>
